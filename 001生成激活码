@@ -1,4 +1,0 @@
-import string
-import random
-def active_code(cnt,len):
-  
